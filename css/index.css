@@ -2,4 +2,7 @@ div {
     width: 100px;
     height: 100px;
     background-color: violet;
+    transition: all 1s;
+    text-align: center;
+    line-height: 100px;
 }
